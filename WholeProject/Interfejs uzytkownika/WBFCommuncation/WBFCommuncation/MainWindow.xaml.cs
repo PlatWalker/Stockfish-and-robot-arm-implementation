@@ -58,7 +58,6 @@ namespace WBFCommuncation
         {
             InitializeComponent();
             InitializeBoard();
-            checkBox.IsEnabled = false;
 
             myProcess.StartInfo.FileName = "stockfish_x86-64-bmi2.exe";
             myProcess.StartInfo.UseShellExecute = false;
@@ -80,13 +79,26 @@ namespace WBFCommuncation
 
         private void ComputerMove_Click(object sender, RoutedEventArgs e)
         {
+            MakeMove(ComputerMakesMove());
+        }
+
+        private void HumanMove_Click(object sender, RoutedEventArgs e)
+        {
+            string humanMove = FromTextBox.Text + ToTextBox.Text ;
+            MakeMove(humanMove);
+        }
+
+        #region Chess move
+
+        private void MakeMove(string FromToField)
+        {
             if (startNewGame == true)
             {
                 InitializeGame();
                 startNewGame = false;
             }
 
-            alreadyMadeMoves.Add( ComputerMakesMove() );
+            alreadyMadeMoves.Add(FromToField);
             string fromField = alreadyMadeMoves.Last().Substring(0, 2);
             string toField = alreadyMadeMoves.Last().Substring(2);
 
@@ -104,8 +116,6 @@ namespace WBFCommuncation
 
             textBox.Text = textBoxContent;
         }
-
-        #region Chess move
 
         private String ComputerMakesMove()
         {

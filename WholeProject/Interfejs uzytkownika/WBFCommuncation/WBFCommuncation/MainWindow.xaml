@@ -12,19 +12,22 @@
             <ColumnDefinition Width="251*"/>
             <ColumnDefinition Width="541*"/>
         </Grid.ColumnDefinitions>
-        <Button x:Name="buttonOn" Click="buttonOn_Click" Content="ON" HorizontalAlignment="Left" Margin="345,204,0,0" VerticalAlignment="Top" Width="48" Height="37" Grid.Column="1"/>
+        <Button x:Name="buttonOn" Click="buttonOn_Click" Content="Hand written coordinates" HorizontalAlignment="Left" Margin="342,151,0,0" VerticalAlignment="Top" Width="156" Height="37" Grid.Column="1"/>
         <Button x:Name="buttonPortOpen" Click="buttonPortOpen_Click"  Content="OPEN" HorizontalAlignment="Left" Margin="193,143,0,0" VerticalAlignment="Top" Width="48" Height="37"/>
         <Button x:Name="buttonPortClose" Click="buttonPortClose_Click"  Content="CLOSE" HorizontalAlignment="Left" Margin="193,190,0,0" VerticalAlignment="Top" Width="48" Height="37"/>
-        <TextBox x:Name="xaxis" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="87,288,0,0" TextWrapping="Wrap" Text="x" VerticalAlignment="Top" Width="27"/>
-        <TextBox x:Name="yaxis" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="139,288,0,0" TextWrapping="Wrap" Text="y" VerticalAlignment="Top" Width="27"/>
-        <TextBox x:Name="zaxis" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="195,288,0,0" TextWrapping="Wrap" Text="z" VerticalAlignment="Top" Width="27"/>
-        <TextBox x:Name="theta1" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="67,330,0,0" TextWrapping="Wrap" Text="theta1" VerticalAlignment="Top" Width="47"/>
-        <TextBox x:Name="theta2" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="129,330,0,0" TextWrapping="Wrap" Text="theta2" VerticalAlignment="Top" Width="51"/>
-        <TextBox x:Name="theta3" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="195,330,0,0" TextWrapping="Wrap" Text="theta3" VerticalAlignment="Top" Width="59"/>
-        <TextBox x:Name="writed" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="98,370,0,0" TextWrapping="Wrap" Text="Writed Content" VerticalAlignment="Top" Width="113"/>
-        <Button x:Name="ComputerMove" Content="ComputerMove" HorizontalAlignment="Left" Margin="96,228,0,0" VerticalAlignment="Top" Width="115" Height="37" Grid.Column="1" Click="ComputerMove_Click"/>
-        <CheckBox x:Name="checkBox" Content="PORT&#xD;&#xA;PORT" HorizontalAlignment="Left" Margin="170,250,0,0" VerticalAlignment="Top" Height="15" Width="71"/>
-        <TextBox x:Name="textBox" Grid.Column="1" HorizontalAlignment="Left" Height="198" Margin="98,10,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="113" AcceptsReturn="True" VerticalScrollBarVisibility = "Visible"/>   
+        <TextBox x:Name="xaxis" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="356,199,0,0" TextWrapping="Wrap" Text="x" VerticalAlignment="Top" Width="27"/>
+        <TextBox x:Name="yaxis" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="407,199,0,0" TextWrapping="Wrap" Text="y" VerticalAlignment="Top" Width="27"/>
+        <TextBox x:Name="zaxis" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="459,199,0,0" TextWrapping="Wrap" Text="z" VerticalAlignment="Top" Width="27"/>
+        <TextBox x:Name="theta1" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="342,323,0,0" TextWrapping="Wrap" Text="theta1" VerticalAlignment="Top" Width="47" IsEnabled="False"/>
+        <TextBox x:Name="theta2" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="394,323,0,0" TextWrapping="Wrap" Text="theta2" VerticalAlignment="Top" Width="51" IsEnabled="False"/>
+        <TextBox x:Name="theta3" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="450,323,0,0" TextWrapping="Wrap" Text="theta3" VerticalAlignment="Top" Width="59" IsEnabled="False"/>
+        <TextBox x:Name="writed" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="366,351,0,0" TextWrapping="Wrap" Text="Writed Content" VerticalAlignment="Top" Width="113" IsEnabled="False"/>
+        <Button x:Name="ComputerMove" Content="ComputerMove" HorizontalAlignment="Left" Margin="35,227,0,0" VerticalAlignment="Top" Width="115" Height="37" Grid.Column="1" Click="ComputerMove_Click"/>
+        <CheckBox x:Name="checkBox" Content="PORT OPEN?" HorizontalAlignment="Left" Margin="159,250,0,0" VerticalAlignment="Top" Height="15" Width="92" IsEnabled="False"/>
+        <TextBox x:Name="textBox" Grid.Column="1" HorizontalAlignment="Left" Height="198" Margin="98,10,0,0" TextWrapping="Wrap" Text="Zagrane Ruchy" VerticalAlignment="Top" Width="113" AcceptsReturn="True" VerticalScrollBarVisibility = "Visible"/>
+        <Button x:Name="HumanMove" Content="HumanMove" HorizontalAlignment="Left" Margin="155,227,0,0" VerticalAlignment="Top" Width="115" Height="37" Grid.Column="1" Click="HumanMove_Click"/>
+        <TextBox x:Name="FromTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="155,286,0,0" TextWrapping="Wrap" Text="From" VerticalAlignment="Top" Width="55"/>
+        <TextBox x:Name="ToTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="215,286,0,0" TextWrapping="Wrap" Text="To" VerticalAlignment="Top" Width="55"/>
 
     </Grid>
 </Window>
