@@ -331,6 +331,13 @@ namespace WBFCommuncation
             myProcess.Close();
         }
 
-        #endregion
+        private void NewGame_Click(object sender, RoutedEventArgs e)
+        {
+            startNewGame = true;
+            alreadyMadeMoves.Clear();
+            InitializeGame();
+        }
+
+    #endregion
     }
 }
