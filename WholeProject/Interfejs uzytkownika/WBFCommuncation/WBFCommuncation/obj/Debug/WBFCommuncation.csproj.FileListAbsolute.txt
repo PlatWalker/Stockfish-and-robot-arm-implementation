@@ -1,0 +1,45 @@
+D:\NaukaProgramowanie\rozneprobykomunikacji\WBFCommuncation\WBFCommuncation\bin\Debug\WBFCommuncation.exe.config
+D:\NaukaProgramowanie\rozneprobykomunikacji\WBFCommuncation\WBFCommuncation\bin\Debug\WBFCommuncation.exe
+D:\NaukaProgramowanie\rozneprobykomunikacji\WBFCommuncation\WBFCommuncation\bin\Debug\WBFCommuncation.pdb
+D:\NaukaProgramowanie\rozneprobykomunikacji\WBFCommuncation\WBFCommuncation\obj\Debug\WBFCommuncation.csprojAssemblyReference.cache
+D:\NaukaProgramowanie\rozneprobykomunikacji\WBFCommuncation\WBFCommuncation\obj\Debug\MainWindow.g.cs
+D:\NaukaProgramowanie\rozneprobykomunikacji\WBFCommuncation\WBFCommuncation\obj\Debug\App.g.cs
+D:\NaukaProgramowanie\rozneprobykomunikacji\WBFCommuncation\WBFCommuncation\obj\Debug\WBFCommuncation_MarkupCompile.cache
+D:\NaukaProgramowanie\rozneprobykomunikacji\WBFCommuncation\WBFCommuncation\obj\Debug\WBFCommuncation_MarkupCompile.lref
+D:\NaukaProgramowanie\rozneprobykomunikacji\WBFCommuncation\WBFCommuncation\obj\Debug\MainWindow.baml
+D:\NaukaProgramowanie\rozneprobykomunikacji\WBFCommuncation\WBFCommuncation\obj\Debug\WBFCommuncation.g.resources
+D:\NaukaProgramowanie\rozneprobykomunikacji\WBFCommuncation\WBFCommuncation\obj\Debug\WBFCommuncation.Properties.Resources.resources
+D:\NaukaProgramowanie\rozneprobykomunikacji\WBFCommuncation\WBFCommuncation\obj\Debug\WBFCommuncation.csproj.GenerateResource.cache
+D:\NaukaProgramowanie\rozneprobykomunikacji\WBFCommuncation\WBFCommuncation\obj\Debug\WBFCommuncation.csproj.CoreCompileInputs.cache
+D:\NaukaProgramowanie\rozneprobykomunikacji\WBFCommuncation\WBFCommuncation\obj\Debug\WBFCommuncation.exe
+D:\NaukaProgramowanie\rozneprobykomunikacji\WBFCommuncation\WBFCommuncation\obj\Debug\WBFCommuncation.pdb
+E:\Politechnika\praca Magisterska\PG_Magisterka\Interfejs uzytkownika\WBFCommuncation\WBFCommuncation\bin\Debug\WBFCommuncation.exe.config
+E:\Politechnika\praca Magisterska\PG_Magisterka\Interfejs uzytkownika\WBFCommuncation\WBFCommuncation\bin\Debug\WBFCommuncation.exe
+E:\Politechnika\praca Magisterska\PG_Magisterka\Interfejs uzytkownika\WBFCommuncation\WBFCommuncation\bin\Debug\WBFCommuncation.pdb
+E:\Politechnika\praca Magisterska\PG_Magisterka\Interfejs uzytkownika\WBFCommuncation\WBFCommuncation\obj\Debug\WBFCommuncation.csprojAssemblyReference.cache
+E:\Politechnika\praca Magisterska\PG_Magisterka\Interfejs uzytkownika\WBFCommuncation\WBFCommuncation\obj\Debug\MainWindow.g.cs
+E:\Politechnika\praca Magisterska\PG_Magisterka\Interfejs uzytkownika\WBFCommuncation\WBFCommuncation\obj\Debug\App.g.cs
+E:\Politechnika\praca Magisterska\PG_Magisterka\Interfejs uzytkownika\WBFCommuncation\WBFCommuncation\obj\Debug\WBFCommuncation_MarkupCompile.cache
+E:\Politechnika\praca Magisterska\PG_Magisterka\Interfejs uzytkownika\WBFCommuncation\WBFCommuncation\obj\Debug\WBFCommuncation_MarkupCompile.lref
+E:\Politechnika\praca Magisterska\PG_Magisterka\Interfejs uzytkownika\WBFCommuncation\WBFCommuncation\obj\Debug\MainWindow.baml
+E:\Politechnika\praca Magisterska\PG_Magisterka\Interfejs uzytkownika\WBFCommuncation\WBFCommuncation\obj\Debug\WBFCommuncation.g.resources
+E:\Politechnika\praca Magisterska\PG_Magisterka\Interfejs uzytkownika\WBFCommuncation\WBFCommuncation\obj\Debug\WBFCommuncation.Properties.Resources.resources
+E:\Politechnika\praca Magisterska\PG_Magisterka\Interfejs uzytkownika\WBFCommuncation\WBFCommuncation\obj\Debug\WBFCommuncation.csproj.GenerateResource.cache
+E:\Politechnika\praca Magisterska\PG_Magisterka\Interfejs uzytkownika\WBFCommuncation\WBFCommuncation\obj\Debug\WBFCommuncation.csproj.CoreCompileInputs.cache
+E:\Politechnika\praca Magisterska\PG_Magisterka\Interfejs uzytkownika\WBFCommuncation\WBFCommuncation\obj\Debug\WBFCommuncation.exe
+E:\Politechnika\praca Magisterska\PG_Magisterka\Interfejs uzytkownika\WBFCommuncation\WBFCommuncation\obj\Debug\WBFCommuncation.pdb
+E:\Politechnika\PSS\Stockfish-and-robot-arm-implementation\WholeProject\Interfejs uzytkownika\WBFCommuncation\WBFCommuncation\bin\Debug\WBFCommuncation.exe.config
+E:\Politechnika\PSS\Stockfish-and-robot-arm-implementation\WholeProject\Interfejs uzytkownika\WBFCommuncation\WBFCommuncation\bin\Debug\WBFCommuncation.exe
+E:\Politechnika\PSS\Stockfish-and-robot-arm-implementation\WholeProject\Interfejs uzytkownika\WBFCommuncation\WBFCommuncation\bin\Debug\WBFCommuncation.pdb
+E:\Politechnika\PSS\Stockfish-and-robot-arm-implementation\WholeProject\Interfejs uzytkownika\WBFCommuncation\WBFCommuncation\obj\Debug\WBFCommuncation.csprojAssemblyReference.cache
+E:\Politechnika\PSS\Stockfish-and-robot-arm-implementation\WholeProject\Interfejs uzytkownika\WBFCommuncation\WBFCommuncation\obj\Debug\MainWindow.g.cs
+E:\Politechnika\PSS\Stockfish-and-robot-arm-implementation\WholeProject\Interfejs uzytkownika\WBFCommuncation\WBFCommuncation\obj\Debug\App.g.cs
+E:\Politechnika\PSS\Stockfish-and-robot-arm-implementation\WholeProject\Interfejs uzytkownika\WBFCommuncation\WBFCommuncation\obj\Debug\WBFCommuncation_MarkupCompile.cache
+E:\Politechnika\PSS\Stockfish-and-robot-arm-implementation\WholeProject\Interfejs uzytkownika\WBFCommuncation\WBFCommuncation\obj\Debug\WBFCommuncation_MarkupCompile.lref
+E:\Politechnika\PSS\Stockfish-and-robot-arm-implementation\WholeProject\Interfejs uzytkownika\WBFCommuncation\WBFCommuncation\obj\Debug\MainWindow.baml
+E:\Politechnika\PSS\Stockfish-and-robot-arm-implementation\WholeProject\Interfejs uzytkownika\WBFCommuncation\WBFCommuncation\obj\Debug\WBFCommuncation.g.resources
+E:\Politechnika\PSS\Stockfish-and-robot-arm-implementation\WholeProject\Interfejs uzytkownika\WBFCommuncation\WBFCommuncation\obj\Debug\WBFCommuncation.Properties.Resources.resources
+E:\Politechnika\PSS\Stockfish-and-robot-arm-implementation\WholeProject\Interfejs uzytkownika\WBFCommuncation\WBFCommuncation\obj\Debug\WBFCommuncation.csproj.GenerateResource.cache
+E:\Politechnika\PSS\Stockfish-and-robot-arm-implementation\WholeProject\Interfejs uzytkownika\WBFCommuncation\WBFCommuncation\obj\Debug\WBFCommuncation.csproj.CoreCompileInputs.cache
+E:\Politechnika\PSS\Stockfish-and-robot-arm-implementation\WholeProject\Interfejs uzytkownika\WBFCommuncation\WBFCommuncation\obj\Debug\WBFCommuncation.exe
+E:\Politechnika\PSS\Stockfish-and-robot-arm-implementation\WholeProject\Interfejs uzytkownika\WBFCommuncation\WBFCommuncation\obj\Debug\WBFCommuncation.pdb

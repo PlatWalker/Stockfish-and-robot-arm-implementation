@@ -34,6 +34,7 @@
 #include "tt.h"
 #include "uci.h"
 #include "syzygy/tbprobe.h"
+#include <boost/interprocess/shared_memory_object.hpp>
 
 namespace Stockfish {
 
@@ -55,6 +56,7 @@ namespace TB = Tablebases;
 using std::string;
 using Eval::evaluate;
 using namespace Search;
+using boost::interprocess;
 
 namespace {
 
@@ -287,9 +289,16 @@ void MainThread::search() {
 }
 
 
-/// shared 
+/// shared memory //LK
 
-void 
+void SharedMoemory()
+{
+    shared_memory_object shm_obj
+   (create_only                  //only create
+   ,"shared_memory"              //name
+   ,read_write                   //read-write mode
+   );
+}
 
 /// Thread::search() is the main iterative deepening loop. It calls search()
 /// repeatedly with increasing depth until the allocated thinking time has been
